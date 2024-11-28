@@ -1,0 +1,42 @@
+.App {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 10px;
+    border: black solid 2px;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form input {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 5px;
+  }
+  
+  .list {
+    margin-top: 20px;
+  }
+  
+  .list-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 5px;
+ .edit {
+    margin-left: 1030px;
+    position: fixed;
+ }   
+    
+  }
+  
+  
